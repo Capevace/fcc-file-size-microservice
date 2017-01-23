@@ -1,0 +1,19 @@
+{
+  "name": "fcc-file-size",
+  "version": "1.0.0",
+  "description": "The file size microservice for FCC.",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/Capevace/fcc-file-size-microservice",
+    "type": "git"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Lukas von Mateffy (@Capevace)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "multer": "^1.2.1"
+  }
+}
